@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Logan-Draper
-
-
-<!---
-Logan-Draper/Logan-Draper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hey! I’m @Logan-Draper
+- I'm a sophomore at the University of Tennesee Knoxville, in computer science.
+- I'm currently working on a text based "dungeon crawler" game that is proceedurally generated. It will run in the command prompt. 
